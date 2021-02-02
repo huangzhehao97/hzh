@@ -1,0 +1,2 @@
+(this["webpackJsonpblog-react"]=this["webpackJsonpblog-react"]||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c(0),o=c.n(r),s=c(3);var a=function(){return Object(n.jsx)("h1",{children:"Hello I'm \u9ec4\u6d59\u6d69"})};c.n(s).a.render(Object(n.jsx)(o.a.StrictMode,{children:Object(n.jsx)(a,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.03aaf79d.chunk.js.map
